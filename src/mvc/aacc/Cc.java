@@ -1,11 +1,7 @@
 package mvc.aacc;
 
 public class Cc {
-<<<<<<< HEAD
-	public void CCC() {
-		System.out.println("CCCCC");
+public void CCC() {
+		System.out.println("CCCㅊㅊㅊㅊㅊㅊㅊㅊCC");
 	}
-=======
-
->>>>>>> d5ecdab0387a3f8d7f67dfca3f1828844d24a60b
 }
